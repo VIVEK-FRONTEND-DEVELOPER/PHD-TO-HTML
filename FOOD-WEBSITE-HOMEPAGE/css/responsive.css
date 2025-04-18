@@ -1,0 +1,195 @@
+@media only screen and (min-width:991px) and (max-width:1310px)  {
+*.animated{animation-duration:inherit !important;}
+.container{width: 100% !important; max-width: 100% !important; padding-left: 15px; padding-right: 15px;}
+header .row{padding-left: 15px; padding-right: 15px; margin-top: 80px;}
+.slider-img{width: 100% !important;}
+header .container{ padding-bottom: 100px !important;}
+.third-section .card{width: 50% !important;          text-align: center !important; }
+.about-img > img{width: 100% !important; height: auto !important;}
+.about-img {  height: auto !important;  width: 100% !important;}
+.about-us .about{width: 100% !important; padding-left: 0px !important;}
+.about-us .title > p{width: 100% !important;}
+.about-us{height: auto !important;}
+.header-nav ul li a{font-size: 20px;}
+.header-nav ul li{margin-right: 30px;}
+.para {margin-left: inherit !important;}
+.heading > h4{position: relative; z-index: 99; font-size: 45px;}
+.heading > h1{    margin-top: 17px !important; position: relative !important; margin-left: 0 !important;}
+.slider-img img {  width: 100% !important;}
+.para p {position: relative !important;  z-index: 99 !important;}
+.main-slider{height: auto; padding-bottom: 50px !important;}
+.left-side img{margin-left: inherit !important; margin-top: -1px;}
+.right-side{height: auto !important; width: 100% !important;}
+.right-side .content h1 {  padding-left: 0; }
+.right-side > .content > h5{padding-left: 0px !important;}
+.right-side{    margin-left: -340px !important; margin-right: 0px !important; margin-bottom: 2px !important;}
+.right-side .content{     padding-left: 380px;}
+.right-side .content p{    padding-left: 0 !important;     width: 100% !important;}
+.right-side {  padding-left: 25px !important;  padding-right: 25px !important;}
+.third-section .card > h5{width: 100% !important;}
+.third-section .card > i{padding-left: 0px !important;}
+.card {  margin-bottom: 50px !important;}
+.chef-section .about{width: 100% !important;}
+#p-2{width: 100% !important;}
+.para-design{width: 100% !important;}
+.para-design p{width: 100% !important;}
+footer{height: auto; padding: 50px 50px;}
+footer .row{ gap: 30px 0px;}
+.chef-section .row{ margin-top: 80px;}
+.left-img:after{ padding-left: 13px;}
+.right-side .content button { margin-left: inherit !important; margin-top: 30px;}
+.third-section .row { margin-top: -50px !important;}
+.heading-width h5{font-size:  85px;}
+}
+
+@media only screen and (min-width:768px) and (max-width: 990px){
+*.animated{animation-duration:inherit !important;}
+.container{ width: 100% !important; max-width: 100% !important;}
+.search_btn i { margin-right: 20px !important;}
+.slider-img img{ width: 100%;}
+.heading > h1{ font-size: 90px !important; position: relative !important; z-index: 99;}
+.heading > h4{ font-size: 45px; margin: -7px !important;}
+.para p{width: 347px;  text-align: center !important;}
+.para> button{ width: 220px !important; margin-left: 120px;}
+.main-slider .container { width: 100%;}
+.main-slider{ height: 720px;}
+.right-side{ width: 100% !important; margin-right: inherit !important;}
+.right-side .content p {  font-size: 21px;  line-height: 30px;  padding-top: 20px;  width: 100% !important;  font-weight: 200; padding-left: 412px;}
+.left-side img {  margin: inherit; width: 100% !important;}
+.right-side{ height: 100%;  border-radius: 148px;  padding-bottom: 20px;}
+.chef-section .row{ gap: 50px 0; padding-top: 50px;}
+.food-card{ display:  ruby-text !important;}
+.chef-section .about{ width: 100% !important;}
+.about-us .about{ width: 100% !important;}
+.about-us .row{ flex-direction: column;}
+.about-img > img { margin-left: 150px; margin-right: 150px;}
+.about-us .title  p{ width: 100% !important; font-size: 29px !important; margin-top: -115px !important;}
+.about-para {    font-size: 20px ;    width: 100% !important;    font-family: "Poppins", sans-serif;    text-align: center;    margin-left: -50px;}
+.read-button button { margin-left: -110px !important;}
+#p-2{ width: 100% !important;}
+.para-design{ width: 100% !important;}
+.para-design p{ width: 100%;}
+footer .row{ gap: 20px 55px;}
+.card {
+  width: 50% !important;
+}
+}
+@media only screen and (min-width:480px) and (max-width: 767px){
+*.animated{animation-duration:inherit !important;}
+.container{ width: 100% !important; max-width: 100% !important;}
+  header{ height: 55px;}
+  .heading h1{ font-size: 80px !important; margin-left: inherit !important;}
+  .heading > h4{ font-size: 45px !important;}
+  .header-nav ul li{ margin-right: 5px;}
+  .header-logo{ width: 100px; margin-left: 5px;}
+  .header-logo img{ width: 100px; margin: 10px 20px;}
+  .header-nav ul li a{ font-size: 15px; margin-left: 25px;}
+  .search_btn i{ font-size: 20px; margin-right: 25px;}
+  .slider-img{ display: none;}
+  .heading{ padding-top: 35px; position: relative ; z-index: 100;}
+  .main-slider{ height: 100%;}
+  .para> button{ position: relative; margin-bottom: 30px;}
+  .second-slider .row{ flex-direction: column; padding-top: 30px;}
+  .left-side{ margin-top: 30px; padding-bottom: 30px;}
+  .left-side img { margin: 0; width: 100% !important;}
+  .right-side{ width: 95% !important; margin: inherit;}
+  .right-side .content h1{padding-left: inherit; text-align: center; }
+  .right-side .content h5{ padding-left: inherit !important; text-align: center !important;}
+  .right-side .content p{ width: 100%; padding-left: inherit !important; font-size: 24px !important;}
+  .right-side .content button{ margin-top: 50px; margin-left: 140px;}
+  .chef-section .row { gap: 20px 0; padding-top: 20px;}
+  .chef-section .about{ width: 100%;}
+  .about-us .row { flex-direction: column;}
+  .about-img{ padding: 0px 75px;}
+  .about-us { height: 100%;}
+.about-us .about{ padding-top: 170px; width: 100%;}
+.about-us .title > p{ text-align: start;  width: 100% !important}
+.read-button{ padding-bottom: 30px;}
+.test-heading{ padding: inherit;}
+.about-para { width: 100% !important; margin-left: inherit !important;}
+ #p-2{ width: 90%;}
+ .para-design{ width: 100%;}
+ .para-design p{ width: 90% !important;}
+ .subacribe-width input{ width: 90%;}
+ .subacribe-width button{ width: 90%;}
+ .subacribe-width { width: 100% !important; text-align: center !important;}
+ .heading-width{ width: 100% !important; }
+ .heading-width h5{ font-size: 65px;}
+ .test-heading{ width: 100%;}
+ .test-heading h1{ font-size: 90px;}
+ .about-img img{ width: 100% !important; height: 100% !important;}
+ #foodinfo-p{ width: 100% !important;}
+ .food-card{ flex-direction: column !important;}
+ .food-info{ text-align: center !important;}
+ .common-widget{ display: none !important;}
+ footer{ text-align: center !important; height: 100% !important; padding-top: 15px !important; padding-bottom: 15px !important;}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px){
+*.animated{animation-duration:inherit !important;}
+header{ height: 75px;}
+.container{ width: 100% !important; max-width: 100% !important;}
+.header-nav{ display: none !important;}
+.slider-img{ display: none !important;}
+.main-slider{ height: 550px;}
+.heading > h4 { font-size: 27px !important; text-align: center; margin: inherit !important;}
+.heading > h1{ font-size: 60px; margin: inherit !important; text-align: center;}
+.heading { padding-top: 17px; position: relative; z-index: 100;}
+.para{ margin: inherit; width: 90%; text-align: center !important;}
+.para p{ width: 100% ;}
+.para > button{ position: relative; z-index: 99 !important; margin-left: inherit !important; margin-top: 40px !important;}
+.heading > h4{ margin-left: 116px;}
+.second-slider .row{ flex-direction: column !important; padding-top: 25px !important;}
+.left-side img{ width: 90% !important; margin: 0 10px !important; padding-bottom: 20px !important;}
+.right-side{ width: 95% !important; margin: inherit !important; height: 100% !important;}
+.right-side .content{ width: 100%  !important; padding-top: 10px;}
+.content h1{ padding: inherit !important; font-size: 45px !important; text-align: center !important;}
+.content h5{ padding: inherit !important; font-size: 25px !important; text-align: center !important;}
+.content p{ padding: inherit !important;}
+.content p{ width: 90% !important; text-align: start; font-size: 20px !important;}
+.right-side .content button{ margin-left: 14px !important; margin-right: 76px !important; margin-bottom: 20px !important; margin-top: 25px !important;}
+.about{ width: 100% !important; padding-left: inherit !important;}
+.about-us .row{ flex-direction: column !important; margin-top: 30px !important; margin-bottom: 30px;}
+.about-us .read-button{ margin-bottom: 20px; position: relative; z-index: 10000;}
+.about-img > img{ height: 100% !important; width: 100% !important;}
+.about .title >p { width: 98%; font-size: 30px !important; text-align: center !important; margin-top: -130px !important;}
+.about-para{ margin-left: 0px !important; text-align: center !important; width: 100% !important;}
+.read-button button{ margin-left: inherit !important; margin-bottom: 150px !important; }
+.left-img:after{ padding-left: 10px; height: 1325px;}
+.test-heading{ padding: inherit !important; font-size: 35px !important;}
+.test-para{ padding-top: 25px !important; font-size: 20px !important;}
+.test-dot ul{ padding-left: 80px !important;}
+#p-2{ width: 95% !important; }
+.heading-width{ width: 100% !important; margin-top: 50px;}
+.heading-width h5{ font-size: 50px !important; padding-top: 150px !important; padding-left: 10px !important; padding-right: 10px !important;}
+.para-design{ width: 100% !important;}
+.para-design p{ width: 100%; text-align: start; padding-left: 10px !important; padding-right: 10px !important;}
+.subacribe-width{ width: 100% !important; padding-left: 15px !important; padding-right: 15px !important; }
+.subacribe-width input{ width: 100% !important; }
+.common-widget{ display: none;}
+.footer-para{ text-align: center !important; width: 100%;}
+.footer-social-media-link{ text-align: center !important;}
+.foter-heading{ text-align: center !important; padding-top:  30px !important;}
+footer{ height: 100%; margin-top: 220px; padding-bottom: 20px;}
+.food-card{ flex-direction: column !important;}
+.chef-section .card{ padding-bottom: 30px !important; width: 100% !important;}
+.chef-section .info{ width: 98% !important;}
+.test-dot ul li{ margin-left: -22px !important;}
+#head{ font-size: 58.04px;}
+.chef-section .card >img {  height: 100%;  width: 100%;}
+.third-section .card > p{ font-size: 18px !important;}
+.third-section .card > h5{ font-size: 25px !important; width: 100% !important;}
+.third-section .card{ width: 100% !important;}
+.third-section .card > p{ width: 100% !important;}
+.chef-section h1{ font-size: 40px !important;}
+.chef-section h5{ font-size: 20px !important;}
+.foter-heading > a { font-size: 35px;}
+.chef-section .row{ padding-top: 50px !important;}
+.about-us{ padding-top: 100px;}
+.testomonial{ padding-top: 15px !important; padding-bottom: 5px !important;}
+.test-para p{ margin-left: -50px; margin-right: -50px !important;}
+.name{ padding-top: 20px !important;}
+.about-img{ padding-top: 50px !important;}
+.chef-section .about{ padding-top: inherit !important;}
+.third-section .card > i{ padding-left: 140px !important;}
+}
