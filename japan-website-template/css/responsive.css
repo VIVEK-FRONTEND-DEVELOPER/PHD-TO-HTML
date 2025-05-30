@@ -1,0 +1,108 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+    *.animated{animation-duration:inherit !important;}
+    .container{
+        width: 100% !important;  }
+        
+        .row-1 span{ font-size: 32px;}  
+    }
+    
+    @media only screen and (min-width:768px) and (max-width: 990px){
+    *.animated{animation-duration:inherit !important;}
+    .container{
+        width: 100% !important;
+    }
+    }
+    @media only screen and (min-width:480px) and (max-width: 767px){
+    *.animated{animation-duration:inherit !important;}
+    .container{ width: 100% !important;}
+    }
+    
+    @media only screen and (max-width: 479px){
+    *.animated{animation-duration:inherit !important;}
+    .container{
+        width: 100% !important;
+    }
+    .row-1{
+        margin-left: inherit !important ;
+        justify-content: center !important;
+    }
+    .travellers-col-1 h2{ font-size: 50px !important; }
+    
+    .row-1 h1{
+        font-size: 90px !important;
+        padding-top: 20px !important;
+    }
+
+    .row-1 span{
+        margin-left: inherit !important;
+    }
+
+    .row-2{
+        margin-top: 30px !important;
+    }
+    .main-section .right-tree{
+        top: -6%;
+    }
+    .main-section .left-tree{
+        bottom: -70px !important;
+        top: inherit !important;
+    }
+
+    .travellers-col-2 .card{ margin-top: 50px !important; margin-bottom: inherit !important;}
+    .travellers-section .row{ padding-bottom: 100px !important;}
+    .main-section .date{ width: 100%; padding: 0 30px !important;}
+    .row-3 .content{ margin-top: 50px !important; padding: 0 20px !important;}
+    .ready-to-travel .travel-card-img{  width:  100% !important;}
+    .cards-left{ padding: inherit !important; gap: 50px;}
+    .cards-right{ padding: inherit !important;}
+    .ready-to-travel .card{ width: 90% !important;}
+    .ready-to-travel .card .info{  width: 100% !important;}
+    .ready-to-travel .card{ width: 85% !important; margin-top: 50px  !important;}
+    .ready-to-travel .travel-card-img img{ width: 100% !important; height: 100% !important; object-fit: cover !important;}
+    .travellers-section .row{padding-top: inherit !important;    }
+    .ready-to-travel .right-tree{ display: none;}
+    .ready-to-travel .left-tree{ display: none !important;}
+    .ready-to-travel .heading{ padding-top: 50px !important;}
+    .ready-to-travel .heading h3 {        font-size: 90px;        margin-top: -36px;    }
+    .ready-to-travel .heading span{ margin: inherit !important;}
+     .ready-to-travel-main-row {    padding-top: inherit !important;  }
+     .whats-new-section .content h2 {    font-size: 40px;    color: var(--white-color);    font-family: var(--font);   width: 90%;}
+     .whats-new-section .content p{ width: 90% !important;}
+     .new-advanture{ display: none !important;}
+     .whats-new-section .kone-img{ margin-top: 50px !important; width: 100% !important; padding: 0 20px !important;}
+     .whats-new-section .left-umb{ display: none !important;}
+     .whats-new-section .right-umb{ display: none !important;}
+     .culture-section .fish{ margin-top: 250px !important; width: 85% !important;}
+     .ready-to-go{ margin-top: 50px !important; margin-left: inherit !important;}
+     .culture-section .heading{ margin-top: 5px !important;}
+     .culture-section .new-right-tree{ display: none !important;}
+     img.position-absolute.cat-2{ bottom: 20px !important; left: 10px;}
+     .culture-section p{ width: 90% !important;}
+     .culture-section .buttons{ padding-left: inherit !important; justify-content: center !important;}
+     .bowl-img{ width: 90% !important;}
+     .row-3 p{ width: 100% !important;}
+     .culture-section span {    font-size: 17px;    color: var(--main-color);    font-family: var(--font);    position: absolute;     left: inherit !important;     top: inherit !important; }
+     .culture-section h4{ font-size: 75px !important;}
+     .about-us-section .right-umbrela{ display: none !important;}
+     .about-us-section .content h2 {    font-size: 32px;    color: var(--white-color);    font-family: var(--font);    text-align: center;    width: 100%;}
+     .about-us-section .content {    margin-top: 10px !important;}
+     .about-us-section .heading{ padding-top: 50px !important;}
+     .about-us-section .content p {    font-size: 20px;    color: var(--blue-color);    font-family: var(--font);    width: 100%;    text-align: center;}
+     .about-us-section .left-umbrela{ display: none !important;}
+     .about-us-section{ padding-bottom: 50px !important;}
+     .about-us-sushi{ bottom: 7% !important;}
+     .about-us-leaf-3 {    right: 17%;    bottom: 7%;}
+     .fadeInRight{ display: none !important ;}
+     img.position-absolute.blog-left-tree.wow.fadeInLeft{ top: -92px !important;}
+     .blog-section .heading h2{ font-size: 90px !important; padding-top: 10px !important;}
+     .blog-section .heading span{ right: 8%;}
+     .blog-card{ margin-top: 50px !important;}
+     .blog-button a{ margin-right: inherit !important; font-size: 15px !important;}
+     .blog-button{ margin: 50px 0 !important;}
+     .widget{ margin-top: 15px !important;}
+     .blog-card-left h6{ font-size: 25px;}
+     .blog-card-left p{ width: 100% !important;}
+    
+     
+
+    }
