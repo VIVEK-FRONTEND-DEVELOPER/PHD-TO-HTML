@@ -1,0 +1,82 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+*.animated{animation-duration:inherit !important;}
+.main-img-price-tag div span{ font-size: 49px; }
+.main-img-price-tag div h6{font-size: 30px; margin-top: 20px;}
+.main-img-price-tag div p{ font-size: 33px; padding-left: 17px;}
+.slick-dots { text-align: start; bottom: -10px;}
+.container{ max-width: auto; width: auto;}
+}
+
+@media only screen and (min-width:768px) and (max-width: 990px){
+*.animated{animation-duration:inherit !important;}
+main .content h1{ font-size: 100px !important; }
+main .content h6{ font-size: 56px !important;}
+main .content p{ font-weight: 100; color: #3d2514; width: 405px; font-size: 23px; border: 1px dashed;}
+main .content{ padding-top: 145px !important; }
+.todays-deal .left-col { height: 420px !important; width: 596px;}
+.todays-deal .container  .row-1{ padding-top: 80px !important; padding-bottom: 70px !important;}
+.bottom-row{ padding-top: 15px !important;}
+.left-col{ background-position: left;}
+}
+@media only screen and (min-width:480px) and (max-width: 767px){
+*.animated{animation-duration:inherit !important;}
+.container{ max-width: auto; width: auto;}
+form{ flex-direction: column; justify-content: center; align-items: center;}
+.main-img-price-tag div span{ font-size: 30px;}
+.main-img-price-tag div h6{ font-size: 25px; margin-top: 20px;}
+.main-img-price-tag div p{ font-size: 20px; padding-left: 10px;}
+.header-logo{ display: flex !important; justify-content: space-around !important; align-items: center; }
+header-logo.col.col-md-6.pt-md-3.h-100.text-center.text-md-start { padding-top: 20px;}
+.row.pt-5 { flex-direction: column !important; align-items: center !important; padding-bottom: 50px !important;}
+footer .left img { padding-left: inherit !important; }
+.copy-right{ padding-top: 15px !important; width: 100% !important; padding-left: inherit !important;}
+.footer-info{ padding-left: 10px; }
+.social-media-icons{ position: inherit !important; padding-top: 20px !important; }
+.always-tasty-burger .row h2{ font-size: 30px !important; }
+p.text-center.pt-3{ width: 100% !important;}
+.left.col-xl-6.col-lg-6.col-md-6.col-sm-6{ width: 100% !important; }
+p.text-white.pt-5{ padding-left: inherit !important; width: 100% !important;}
+.card-2{ height: inherit !important;}
+main h1{ font-size: 90px !important;}
+.row.bottom-row{ margin-top: inherit !important;}
+.slick-dots { text-align: start; bottom: -30px; width: 97%;    }
+.upcoming-slider p{ padding-right: inherit;}
+
+.footer-right-item {  padding-top: inherit !important;}
+}
+
+@media only screen and (max-width: 479px){
+*.animated{animation-duration:inherit !important;}
+.container{ max-width: auto; width: auto;}
+.main-img-price-tag div span{ font-size: 25px; }
+.main-img-price-tag div h6{ font-size: 27px; margin-top: 20px;}
+.main-img-price-tag div p{ font-size: 20px; padding-left: 10px;}  
+.header-logo.col.col-md-6.pt-md-3.h-100.text-center.text-md-start { padding-top: 20px;}
+i.fa-solid.fa-bars.fs-1{ padding-top: 7px !important;}
+.logo{width: 70% !important; }
+.card.col-md-4{ padding-top: 20px !important;}
+.left-col{ background-position: left;}
+.upcoming{ font-size: 25px !important;}
+.form-section .left input{ width: 100% !important;}
+.form-section .right{ padding-top:1.5rem;}
+.form-section .right input{ width: 100% !important;}
+.form-section .row{ padding-bottom: 50px !important;}
+.form-section .right button{ width: 100% !important;}
+main .content p{ width:  100% !important; font-size: 18px;}
+p.text-white.pt-5{ padding-left: inherit !important;width: 100% !important;}
+footer .left img {width: 100% !important;padding-left: inherit !important;}
+.copy-right{padding-top: 15px !important;width: 100% !important;padding-left: inherit !important;}
+.footer-info{padding-left: 10px;}
+.social-media-icons{position: inherit !important;padding-top: 20px !important;}
+.always-tasty-burger .row h2{font-size: 30px !important;}
+p.text-center.pt-3{width: 100% !important  ;}
+.header-logo{display: flex !important;justify-content: space-around !important;align-items: center;}
+h3.text-uppercase{font-size: 27px !important;}
+main h1{font-size: 60px !important;}
+.row.bottom-row{margin-top: inherit !important;}
+form{flex-direction: column;}
+.upcoming-slider p {    padding-right: inherit !important;}
+.upcoming-slider h4{ font-size: 33px !important;}
+.slick-dots {  text-align: start; bottom: -30px; width: 97%; }
+.footer-right-item { padding-top: inherit !important;}
+}

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Bebas Neue", sans-serif;
+font-family: "Montserrat", sans-serif;
+font-family: "Alfa Slab One", serif; */
+.container{    width: 1326px;    max-width: 1326px; }
+.main-section{    background: url(img/main-slider-background.png);}          
+form input{    font-weight: bold;    padding-left: 20px;}
+form input:focus{    outline-style: solid;    outline-color: #ffc045;}
+form{    display: flex;    gap: 20px;}
+.main-img-price-tag{    height: 32%;    width: 28%;    border-radius: 50%;    display: flex;     justify-content: center;     align-items: center;    background-color: #bf2222;    position: absolute;    bottom: 10px;}
+.main-img-price-tag div{    border: 2px dashed white;     border-radius: 50%;     height: 90%;     width: 90%;    display: flex;    flex-direction: column;    justify-content: center;    align-items: center;    color: #fff;    font-family: Bebas Neue; }
+.main-img-price-tag div span{    font-size: 69px;}
+.main-img-price-tag div h6{    font-size: 30px;    margin-top: 20px;}
+.main-img-price-tag div p{    font-size: 33px;    padding-left: 17px;}
+nav a{    text-decoration: none;    color: #3d2514;    font-family: Bebas Neue;}
+.row.flex-md-row.flex-sm-column.flex-column{    padding-bottom: 50px ;}
+main .content p{    font-family: Bebas Neue Regular;     color: #3d2514;    width: 60%;    font-size: 23px;    border: 1px dashed;}
+.input-box{    width: 380px; height: 60px; border-radius: 5px; border: 1px solid #bebebe;}
+nav div li{    list-style-type: none;    font-style: Bebas Neue;}
+footer ul li { list-style: none; display: inline-block; background-color: white; width: 35px; height: 34px; text-align: center; border-radius: 50%; margin-left: 10px; line-height: 36px; }
+footer li a{ color: #000;}
+footer li a i{    font-size: 20px;        padding: 3px;}
+.always-tasty-burger .row a{    color: #3d2514;    background-color: #ffc045;    width: 218px;    font-size: 25px;    font-family: Bebas Neue;}
+.always-tasty-burger .row h2{    font-size: 50px;    color: #3d2514;    font-family: Alfa Slab One;}
+.always-tasty-burger .row p{    font-size: 16px;    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    color: #3d2514;    width: 67%;    font-weight: 100;}   
+.upcoming-section .card{    border-radius: 20px;    height: 500px;    width: 90%;    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);    border: none;  }
+.carousel-item{    z-index: 2;    /*padding: 10px 25px;*/  }
+.carousel-item > .row{    margin: 0;  }
+.title{    color: #fff;    text-align: center;  }
+.bgTitle{      background-color: #316e99;      position: absolute;     z-index: 1;  }
+.title h3{    text-shadow: 0px 3px 3px rgba(0,0,0,0.2);  }
+.btn-next{    position: absolute;    bottom: 15px;    right: 15px;    width: 100px;    border-radius: 20px;    background-color: #316e99;    color: #fff;    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);    z-index: 3;  }
+input{    background-color: transparent !important;  }  
+.row.bottom-row{    margin-top: 35px !important;}
+.sidenav {    height: 100%;    width: 0;    position: fixed;    z-index: 1;    top: 0;    left: 0;    background: #ffc045;       overflow-x: hidden;    transition: 0.5s;    padding-top: 60px;    text-align:center;  }
+.sidenav a { padding: 8px 8px 8px 32px; text-decoration: none; font-size: 25px; color: #3d2514; display: block; transition: 0.3s; font-family: Bebas Neue; padding-top: 30px;}
+.sidenav a:hover{ color: #f1f1f1;}  
+@media screen and (max-height: 450px) { .sidenav {padding-top: 15px;} .sidenav a {font-size: 18px;}}
+.openbtn { width: 50px; height: 50px; border-radius: 5px; cursor: pointer; position: relative; overflow: hidden;} .openbtn .openbtn-area{ transition: all 0.7s;}
+.openbtn span { position: absolute; background: #3d2514; display: inline-block; border-radius: 3px; left: 13px;height: 3px; transition: all .4s; width: 50%; &:nth-of-type(1) { top: 16px;} &:nth-of-type(2) {top: 24px;}&:nth-of-type(3) {top: 32px;}}
+.openbtn.active .openbtn-area { transform: rotatex(360deg);}
+.openbtn.active span{ &:nth-of-type(1) { width: 45%; top: 18px; left: 14px; transform: translateY(6px) rotate(-135deg);} &:nth-of-type(2) { opacity: 0;} &:nth-of-type(3) { width: 45%; top: 30px; left: 14px; transform: translateY(-6px) rotate(135deg);}}
+footer .left .para-1{ font-size: 16px; width: 80%; padding-left: 60px; font-family: Montserrat;}
+footer .left .para-2{ padding-left: 60px ; padding-top: 200px;}
+footer .right .para-1, .para-2{ font-family: Bebas Neue;}
+div#slick-slide00 {width: 10%;}
+.upcoming-slider span{font-size: 29px; font-family: Bebas Neue; color: #3d3d3d;}
+.upcoming-slider h4{font-size: 41px; font-family: "Alfa Slab One", serif; color: #3d2514;}
+.upcoming-slider p{font-size: 20px; font-family: Montserrat; color: #3d3d3d;}
+.upcoming-slider p {    padding-right: 100px;}
+/* .main-upcoming-events li button { background-color: #dcdcdc;   width: 17px;    height: 17px;  } */
+.main-upcoming-events .slick-dots li button:before{font-size: 17px;}
+.main-upcoming-events .slick-dots li.slick-active button:before{color:#ffc045;}
+.main-upcoming-events .slick-dots li button:hover:before{color: #ffc045;}
+.slick-dots{ text-align: start; bottom: 20px;width: 97%;}
+.side-nav-logo img{ width: 90%;}
+.side-nav-logo{ margin-top: 50px !important;}
+.footer-col{ background-image: url(img/footer-bg-img.png); background-repeat: no-repeat; background-size: cover; margin-bottom: 50px;}
+.footer-right-item{ padding-top: 238px;}
