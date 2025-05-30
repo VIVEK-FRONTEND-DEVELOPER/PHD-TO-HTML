@@ -1,0 +1,304 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+*.animated{animation-duration:inherit !important;}
+    nav ul{ 
+        gap: 50px !important;
+    }
+    .main-section .left-img{
+        height: 30%;
+    }
+    .main-section .left .heading{
+        margin-left: 135px !important;
+    }
+    .main-section .left .heading h5{
+        font-size: 85px;
+    }
+    .main-section .pink-top{
+        right: 0 !important;
+    }
+    .main-section .left .heading h1{
+         font-size: 138px !important;
+        }
+        .main-section .left .content{
+            width: 100% !important;
+        }
+        img.about-us-img.mt-5{
+            width: 100% !important;
+        }
+        .about-us-section .content{
+            margin-top: 50px;
+            margin-left: 50px !important;
+        }
+        .about-us-pink{
+            right: -34px;
+        }
+        .about-us-circle{
+            top: 6%;
+            left: 56%;
+        }
+        .why_inner-img{
+            height: 95%;
+        }
+        .why_inner-content h4{
+            font-size: 48px;
+        }
+        .why_inner-content ul li{
+            margin-top: 20px;
+        }
+        .main-testominal p{
+            width: 100%;
+        }
+        .treatmen-section .heading h1{
+            margin-top: 50px;
+        }
+        .Treatment-slider-container{
+            flex-wrap: inherit;
+            
+        }
+        .Treatment-slider-wrapper{
+            gap: 141px !important;
+        }
+        .Location-section .card{
+            width: 100%;
+            height: 100%;
+        }
+        .input-col button{
+            font-size: 15px;
+            padding: 5px;
+        }
+}
+
+@media only screen and (min-width:768px) and (max-width: 990px){
+*.animated{animation-duration:inherit !important;}
+
+
+}
+@media only screen and (min-width:480px) and (max-width: 767px){
+*.animated{animation-duration:inherit !important;}
+.Location-section .card{
+    width: 100% !important;
+    height: 100% !important;
+}
+.input-col{
+    gap: inherit;
+}
+.form-section form .row{
+    gap: 50px;
+}
+.form-section .heading h2{
+    position: relative;
+}
+}
+
+@media only screen and (max-width: 479px){
+*.animated{animation-duration:inherit !important;}
+footer .row{
+    flex-direction: column;
+    gap: 50px;
+}
+footer .right{
+    width: 100%;
+    padding-left: 10px;
+}
+footer .left{
+    flex-direction: column;
+    width: 100%;
+}
+.copyright p{
+    width: 100%;
+}
+.input-col{
+    gap: inherit;
+}
+.input-col input{
+    margin-bottom: 20px;
+}
+.input-col button{
+    font-size: 16px;
+    width: 76%;
+}
+.form-section .heading h2{
+    font-size: 37px;
+}
+.Location-section::after{
+    display: none;
+}
+.Location-section .card{
+    width: 100%;
+    height: 100%;
+}
+.Location-section .heading h2{
+    font-size: 32px;
+}
+.yoga-shop-section::before{
+    display: none;
+}
+.yoga-right::before{
+    display: none;
+}
+p.text-muted.w-25.description{
+    width: 100% !important;
+}
+.card-item.active img{
+    height: 150px;
+    width: 150px;
+}
+.yoga-heading{
+    font-size: 46px;
+}
+nav ul{
+    display: none;
+}
+.main-section .row{
+    flex-direction: column-reverse;
+    padding-bottom: 50px !important;
+}
+.main-section .row .right,
+.main-section .row .left{
+    width: 100% !important;
+}
+.main-section .right img{
+    width: 100%;
+    padding-top: 20px;
+    margin-top: inherit;
+}
+.main-section .circle{
+   display: none;
+}
+.main-section .right-pink{
+    display: none;
+}
+.main-section .left .heading{
+    margin: inherit;
+}
+.main-section .left .heading h1{
+    font-size: 90px !important;
+}
+.main-section .left .heading h5{
+    font-size: 90px;
+}
+.main-section .left .content{
+    width: 100%;
+}
+.main-section .left .content p{
+    font-size: 16px !important;
+}
+.main-section .left-img{
+    display: none;
+}
+.main-section .pink-top{
+    display: none;
+}
+.about-us-section .left, .right{
+    width: 100%;
+}
+img.about-us-img.mt-5{
+    width: 100% !important;
+}
+.about-us-pink {
+    bottom: -87px;
+    right: 42%;
+    width: 173px;
+}
+.about-us-circle {
+    height: 150px;
+    width: 150px;
+    background: var(--blue-ball);
+    border-radius: 50%;
+    position: absolute;
+    top: 4%;
+    left: 51%;
+}
+.about-us-section .content h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.about-us-section .content p{
+    width: 100%;
+    font-size: 18px;
+}
+.about-us-section .content{
+    margin-left: 10px;
+}
+.your-account span{
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.why_inner-img{
+    display: none;
+}
+.why_inner-content h4{
+    font-size: 33px;
+}
+.main-testominal p{
+    width: 100%;
+}
+img.position-absolute.sleek-img{
+    display: none;
+}
+.treatmen-section .heading h1{
+    font-size: 40px;
+}
+.Treatment-card{
+    display: flex;
+    flex-direction: column;
+}
+button#treatprevBtn, button#treatnextBtn{
+    display: none;
+}
+.activity-ball{
+    display: none;
+}
+.activity-pink{
+    display: none;
+}
+.our_actity_ .content{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-bottom: 50px;
+}
+.our_actity_ h1{
+    font-size: 45px;
+    margin-top: 50px;
+}
+.our_actity_ p{
+    margin-bottom: 20px !important;
+    width: 100% !important;
+}
+.row.w-100{
+    flex-direction: column;
+}
+.yoga-right.right.w-50.position-relative.p-0{
+    width: 100% !important;
+}
+.yoga-benefit-section .left img{
+    position: inherit !important;
+    width: 100%;
+}
+.yoga-benefit-section .left{
+    width:  100% !important;
+}
+.yoga-benefit-content{
+    margin-top: -128px !important;
+}
+.container-fluid.p-0.h-100{
+    padding: 0px 15px !important;
+}
+.yoga-benefit-content h2{
+    font-size: 36px !important;
+}
+.yoga-benefit-content li{
+    font-size: 18px !important;
+}
+section.yoga-shop-section{
+    margin-top: 320px;
+}
+.Location-section .container{
+    overflow: hidden;
+}
+#slider{
+    overflow: hidden;
+}
+}
